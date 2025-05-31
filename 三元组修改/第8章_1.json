@@ -1,0 +1,512 @@
+{
+  "text8.2.1": "1 查明改建地段及增建第二线的地形、地貌、地层岩性、地质构造、不良地质、特殊岩土及水文地质特征，评价其工程地质条件，提出改建方案或增建第二线的左右侧选择和方案比选的意见；",
+  "spo_list8.2.1": [
+    {
+      "subject": "改建地段",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "地形",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "改建地段",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "地貌",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "改建地段",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "地层岩性",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "改建地段",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "地质构造",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "改建地段",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "不良地质",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "改建地段",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "特殊岩土",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "改建地段",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "水文地质特征",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "增建第二线",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "地形",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "增建第二线",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "地貌",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "增建第二线",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "地层岩性",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "增建第二线",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "地质构造",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "增建第二线",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "不良地质",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "增建第二线",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "特殊岩土",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "增建第二线",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "水文地质特征",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "改建铁路工程地质勘察工作",
+      "subject_type": "地质工程 PC",
+      "predicate": "需要",
+      "object": "工程地质条件评价",
+      "object_type": "地质资料 GI"
+    },
+    {
+      "subject": "改建铁路工程地质勘察工作",
+      "subject_type": "地质工程 PC",
+      "predicate": "需要",
+      "object": "改建方案意见",
+      "object_type": "地质资料 GI"
+    },
+    {
+      "subject": "改建铁路工程地质勘察工作",
+      "subject_type": "地质工程 PC",
+      "predicate": "需要",
+      "object": "增建第二线左右侧选择意见",
+      "object_type": "地质资料 GI"
+    },
+    {
+      "subject": "改建铁路工程地质勘察工作",
+      "subject_type": "地质工程 PC",
+      "predicate": "需要",
+      "object": "方案比选意见",
+      "object_type": "地质资料 GI"
+    }
+    ],
+
+
+    "text8.2.1_2": "2 查明改建地段及并行地段既有不良地质和特殊岩土的性质，施工、运营以来的发展与演变情况，评价既有整治措施的效果，提出改建或增建第二线的通过部位、方式及措施意见；",
+    "spo_list8.2.1_2": [
+      {
+        "subject": "改建地段",
+        "subject_type": "地质工程 PC",
+        "predicate": "包含",
+        "object": "既有不良地质",
+        "object_type": "地质特征 GF"
+      },
+      {
+        "subject": "改建地段",
+        "subject_type": "地质工程 PC",
+        "predicate": "包含",
+        "object": "特殊岩土",
+        "object_type": "地质特征 GF"
+      },
+      {
+        "subject": "并行地段",
+        "subject_type": "地质工程 PC",
+        "predicate": "包含",
+        "object": "既有不良地质",
+        "object_type": "地质特征 GF"
+      },
+      {
+        "subject": "并行地段",
+        "subject_type": "地质工程 PC",
+        "predicate": "包含",
+        "object": "特殊岩土",
+        "object_type": "地质特征 GF"
+      },
+      {
+        "subject": "既有不良地质",
+        "subject_type": "地质特征 GF",
+        "predicate": "来源",
+        "object": "发展与演变情况",
+        "object_type": "地质资料 GI"
+      },
+      {
+        "subject": "特殊岩土",
+        "subject_type": "地质特征 GF",
+        "predicate": "来源",
+        "object": "发展与演变情况",
+        "object_type": "地质资料 GI"
+      },
+      {
+        "subject": "改建铁路工程地质勘察工作",
+        "subject_type": "地质工程 PC",
+        "predicate": "需要",
+        "object": "既有整治措施效果评价",
+        "object_type": "地质资料 GI"
+      },
+      {
+        "subject": "改建铁路工程地质勘察工作",
+        "subject_type": "地质工程 PC",
+        "predicate": "需要",
+        "object": "改建通过部位意见",
+        "object_type": "地质资料 GI"
+      },
+      {
+        "subject": "改建铁路工程地质勘察工作",
+        "subject_type": "地质工程 PC",
+        "predicate": "需要",
+        "object": "增建第二线通过方式意见",
+        "object_type": "地质资料 GI"
+      },
+      {
+        "subject": "改建铁路工程地质勘察工作",
+        "subject_type": "地质工程 PC",
+        "predicate": "需要",
+        "object": "措施意见",
+        "object_type": "地质资料 GI"
+      }
+    ],
+  
+
+  
+    "text8.2.1-3": "3 调查改建或并行地段各类既有建筑物的工程地质条件、稳定状况，病害发生过程及整治效果，确定增建第二线的位置和方式，提出改建或增建建筑物的工程措施意见。",
+    "spo_list8.2.1-3": [
+      {
+        "subject": "改建地段",
+        "subject_type": "地质工程 PC",
+        "predicate": "包含",
+        "object": "既有建筑物",
+        "object_type": "地质工程 PC"
+      },
+      {
+        "subject": "并行地段",
+        "subject_type": "地质工程 PC",
+        "predicate": "包含",
+        "object": "既有建筑物",
+        "object_type": "地质工程 PC"
+      },
+      {
+        "subject": "既有建筑物",
+        "subject_type": "地质工程 PC",
+        "predicate": "包含",
+        "object": "工程地质条件",
+        "object_type": "地质特征 GF"
+      },
+      {
+        "subject": "既有建筑物",
+        "subject_type": "地质工程 PC",
+        "predicate": "包含",
+        "object": "稳定状况",
+        "object_type": "地质特征 GF"
+      },
+      {
+        "subject": "既有建筑物",
+        "subject_type": "地质工程 PC",
+        "predicate": "包含",
+        "object": "病害发生过程",
+        "object_type": "地质特征 GF"
+      },
+      {
+        "subject": "既有建筑物",
+        "subject_type": "地质工程 PC",
+        "predicate": "包含",
+        "object": "整治效果",
+        "object_type": "地质特征 GF"
+      },
+      {
+        "subject": "改建铁路工程地质勘察工作",
+        "subject_type": "地质工程 PC",
+        "predicate": "需要",
+        "object": "增建第二线位置确定",
+        "object_type": "地质资料 GI"
+      },
+      {
+        "subject": "改建铁路工程地质勘察工作",
+        "subject_type": "地质工程 PC",
+        "predicate": "需要",
+        "object": "增建第二线方式确定",
+        "object_type": "地质资料 GI"
+      },
+      {
+        "subject": "改建铁路工程地质勘察工作",
+        "subject_type": "地质工程 PC",
+        "predicate": "需要",
+        "object": "改建建筑物工程措施意见",
+        "object_type": "地质资料 GI"
+      },
+      {
+        "subject": "改建铁路工程地质勘察工作",
+        "subject_type": "地质工程 PC",
+        "predicate": "需要",
+        "object": "增建建筑物工程措施意见",
+        "object_type": "地质资料 GI"
+      }
+    ],
+
+
+  "text8.2.2-1": "1 应在充分搜集和研究区域地质、既有铁路工程地质资料的基础上详细了解地质病害工点的发生、发展和演变情况、整治措施和效果，增建第二线对既有铁路的影响，查明水文地质、工程地质条件，提出综合整治的措施意见及设计所需工程地质资料。",
+  "spo_list8.2.2-1": [
+    {
+      "subject": "地质病害工点",
+      "subject_type": "地质特征 GF",
+      "predicate": "来源",
+      "object": "发生、发展和演变情况",
+      "object_type": "地质资料 GI"
+    },
+    {
+      "subject": "地质病害工点",
+      "subject_type": "地质特征 GF",
+      "predicate": "来源",
+      "object": "整治措施和效果",
+      "object_type": "地质资料 GI"
+    },
+    {
+      "subject": "增建第二线",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "既有铁路",
+      "object_type": "地质工程 PC"
+    },
+    {
+      "subject": "改建铁路工程地质调绘",
+      "subject_type": "地质工程 PC",
+      "predicate": "调查",
+      "object": "水文地质条件",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "改建铁路工程地质调绘",
+      "subject_type": "地质工程 PC",
+      "predicate": "调查",
+      "object": "工程地质条件",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "改建铁路工程地质调绘",
+      "subject_type": "地质工程 PC",
+      "predicate": "需要",
+      "object": "综合整治的措施意见",
+      "object_type": "地质资料 GI"
+    },
+    {
+      "subject": "改建铁路工程地质调绘",
+      "subject_type": "地质工程 PC",
+      "predicate": "需要",
+      "object": "设计所需工程地质资料",
+      "object_type": "地质资料 GI"
+    }
+  ],
+
+  "text8.2.2-2": " 地质调绘应沿既有线进行。调绘宽度可根据横断面范围、取土坑范围或堑顶排水范围确定。工程地质条件复杂或地质病害地段，应根据需要加宽调查范围。调绘重点应放在改建或增建第二线所在的一侧。绕行地段应按新建铁路工程地质调绘要求沿绕行线进行。",
+  "spo_list8.2.2-2": [
+      {
+        "subject": "地质调绘",
+        "subject_type": "勘测技术 RH",
+        "predicate": "用于",
+        "object": "既有线",
+        "object_type": "地质工程 PC"
+      },
+      {
+        "subject": "调绘宽度",
+        "subject_type": "勘测技术 RH",
+        "predicate": "适用",
+        "object": "横断面范围",
+        "object_type": "地质特征 GF"
+      },
+      {
+        "subject": "调绘宽度",
+        "subject_type": "勘测技术 RH",
+        "predicate": "适用",
+        "object": "取土坑范围",
+        "object_type": "地质特征 GF"
+      },
+      {
+        "subject": "调绘宽度",
+        "subject_type": "勘测技术 RH",
+        "predicate": "适用",
+        "object": "堑顶排水范围",
+        "object_type": "地质特征 GF"
+      },
+      {
+        "subject": "工程地质条件复杂地段",
+        "subject_type": "地质特征 GF",
+        "predicate": "得到",
+        "object": "调查范围",
+        "object_type": "勘测技术 RH"
+      },
+      {
+        "subject": "地质病害地段",
+        "subject_type": "地质特征 GF",
+        "predicate": "得到",
+        "object": "调查范围",
+        "object_type": "勘测技术 RH"
+      },
+      {
+        "subject": "调绘重点",
+        "subject_type": "勘测技术 RH",
+        "predicate": "用于",
+        "object": "改建或增建第二线所在的一侧",
+        "object_type": "地质工程 PC"
+      },
+      {
+        "subject": "绕行地段",
+        "subject_type": "地质工程 PC",
+        "predicate": "需要",
+        "object": "新建铁路工程地质调绘",
+        "object_type": "勘测技术 RH"
+      }
+    ],
+
+    
+    "text8.2.2-3": "凡受工程地质条件控制，影响线路方案选择的地段，应进行较大面积的调绘，为方案比选提供依据。",
+    "spo_list8.2.2-3": [
+      {
+        "subject": "工程地质条件控制地段",
+        "subject_type": "地质特征 GF",
+        "predicate": "参考",
+        "object": "线路方案选择",
+        "object_type": "地质工程 PC"
+      },
+      {
+        "subject": "较大面积的调绘",
+        "subject_type": "勘测技术 RH",
+        "predicate": "用于",
+        "object": "方案比选",
+         "object_type": "地质工程 PC"
+      }
+    ],
+
+
+  "text8.2.3_1": "1 勘探、测试点的布置及勘探深度，应在充分利用既有资料的基础上，结合改建或增建建筑物的位置和需要，比照新建铁路工程勘探、测试要求办理；",
+  "spo_list8.2.3_1": [
+    {
+      "subject": "勘探点布置",
+      "subject_type": "勘测技术 RH",
+      "predicate": "需要",
+      "object": "既有资料",
+      "object_type": "地质资料 GI"
+    },
+    {
+      "subject": "勘探深度",
+      "subject_type": "勘测技术 RH",
+      "predicate": "需要",
+      "object": "既有资料",
+      "object_type": "地质资料 GI"
+    },
+    {
+      "subject": "勘探点布置",
+      "subject_type": "勘测技术 RH",
+      "predicate": "用于",
+      "object": "改建建筑物位置",
+      "object_type": "地质工程 PC"
+    },
+    {
+      "subject": "勘探深度",
+      "subject_type": "勘测技术 RH",
+      "predicate": "用于",
+      "object": "改建建筑物位置",
+      "object_type": "地质工程 PC"
+    },
+    {
+      "subject": "勘探点布置",
+      "subject_type": "勘测技术 RH",
+      "predicate": "用于",
+      "object": "增建建筑物位置",
+      "object_type": "地质工程 PC"
+    },
+    {
+      "subject": "勘探深度",
+      "subject_type": "勘测技术 RH",
+      "predicate": "用于",
+      "object": "增建建筑物位置",
+      "object_type": "地质工程 PC"
+    },
+    {
+      "subject": "新建铁路工程勘探",
+      "subject_type": "勘测技术 RH",
+      "predicate": "包含",
+      "object": "测试要求",
+      "object_type": "试验 EP"
+    }
+  ],
+
+
+  "text8.2.3_2": "2 对影响建筑物稳定和行人安全的坑、孔经鉴定、测试后，应立即回填夯实。",
+  "spo_list8.2.3_2": [
+    {
+      "subject": "坑、孔",
+      "subject_type": "地质特征 GF",
+      "predicate": "影响",
+      "object": "建筑物稳定",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "坑、孔",
+      "subject_type": "地质特征 GF",
+      "predicate": "影响",
+      "object": "行人安全",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "鉴定",
+      "subject_type": "勘测技术 RH",
+      "predicate": "用于",
+      "object": "坑、孔",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "测试",
+      "subject_type": "试验 EP",
+      "predicate": "用于",
+      "object": "坑、孔",
+      "object_type": "地质特征 GF"
+    },
+    {
+      "subject": "回填夯实",
+      "subject_type": "地质工程 PC",
+      "predicate": "包含",
+      "object": "坑、孔处理",
+      "object_type": "地质工程 PC"
+    }
+  ]
+    
+  }
+
+
